@@ -8,6 +8,8 @@
 # Parent of origin of expression
 
 exclude unphased variants 
+
 exclude multinucleotide variants 
+
 mapping quality is minimum is 255
 
